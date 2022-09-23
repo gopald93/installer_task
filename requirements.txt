@@ -10,7 +10,7 @@ inflect==4.1.0
 jproperties3==0.5.2
 mysql-connector==2.2.9
 pefile==2019.4.18
-protobuf==3.6.1
+protobuf==3.18.3
 PyInstaller==3.6
 PySimpleGUI==4.18.2
 pywin32-ctypes==0.2.0
